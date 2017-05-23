@@ -15,6 +15,7 @@
 		EC13CCE21ED2D8FA00E19540 /* ClockTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC13CCE11ED2D8FA00E19540 /* ClockTests.swift */; };
 		EC13CCED1ED2D8FB00E19540 /* ClockUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC13CCEC1ED2D8FB00E19540 /* ClockUITests.swift */; };
 		EC13CCFB1ED2D9A500E19540 /* ClockView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC13CCFA1ED2D9A500E19540 /* ClockView.swift */; };
+		EC13CCFF1ED3EAD500E19540 /* Simulator Screen Shot May 23, 2017, 10.55.35 AM.png in Resources */ = {isa = PBXBuildFile; fileRef = EC13CCFE1ED3EAD500E19540 /* Simulator Screen Shot May 23, 2017, 10.55.35 AM.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		EC13CCEC1ED2D8FB00E19540 /* ClockUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClockUITests.swift; sourceTree = "<group>"; };
 		EC13CCEE1ED2D8FB00E19540 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		EC13CCFA1ED2D9A500E19540 /* ClockView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ClockView.swift; sourceTree = "<group>"; };
+		EC13CCFE1ED3EAD500E19540 /* Simulator Screen Shot May 23, 2017, 10.55.35 AM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screen Shot May 23, 2017, 10.55.35 AM.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 		EC13CCCB1ED2D8FA00E19540 /* Clock */ = {
 			isa = PBXGroup;
 			children = (
+				EC13CCFE1ED3EAD500E19540 /* Simulator Screen Shot May 23, 2017, 10.55.35 AM.png */,
 				EC13CCCC1ED2D8FA00E19540 /* AppDelegate.swift */,
 				EC13CCCE1ED2D8FA00E19540 /* ViewController.swift */,
 				EC13CCD01ED2D8FA00E19540 /* Main.storyboard */,
@@ -238,6 +241,7 @@
 				EC13CCD71ED2D8FA00E19540 /* LaunchScreen.storyboard in Resources */,
 				EC13CCD41ED2D8FA00E19540 /* Assets.xcassets in Resources */,
 				EC13CCD21ED2D8FA00E19540 /* Main.storyboard in Resources */,
+				EC13CCFF1ED3EAD500E19540 /* Simulator Screen Shot May 23, 2017, 10.55.35 AM.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
